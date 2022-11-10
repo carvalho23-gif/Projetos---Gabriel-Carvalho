@@ -1,2 +1,2 @@
 # Projetos---Gabriel-Carvalho
-Repositório criado com o intuito de publicar meus códigos.
+Repositório criado com o intuito de publicar meus projetos.
